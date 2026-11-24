@@ -1,0 +1,15 @@
+D:\back end.net\ConsoleApp2 ass3\ConsoleApp2 ass3\bin\Debug\net10.0\ConsoleApp2 ass3.exe
+D:\back end.net\ConsoleApp2 ass3\ConsoleApp2 ass3\bin\Debug\net10.0\ConsoleApp2 ass3.deps.json
+D:\back end.net\ConsoleApp2 ass3\ConsoleApp2 ass3\bin\Debug\net10.0\ConsoleApp2 ass3.runtimeconfig.json
+D:\back end.net\ConsoleApp2 ass3\ConsoleApp2 ass3\bin\Debug\net10.0\ConsoleApp2 ass3.dll
+D:\back end.net\ConsoleApp2 ass3\ConsoleApp2 ass3\bin\Debug\net10.0\ConsoleApp2 ass3.pdb
+D:\back end.net\ConsoleApp2 ass3\ConsoleApp2 ass3\obj\Debug\net10.0\ConsoleApp2 ass3.GeneratedMSBuildEditorConfig.editorconfig
+D:\back end.net\ConsoleApp2 ass3\ConsoleApp2 ass3\obj\Debug\net10.0\ConsoleApp2 ass3.AssemblyInfoInputs.cache
+D:\back end.net\ConsoleApp2 ass3\ConsoleApp2 ass3\obj\Debug\net10.0\ConsoleApp2 ass3.AssemblyInfo.cs
+D:\back end.net\ConsoleApp2 ass3\ConsoleApp2 ass3\obj\Debug\net10.0\ConsoleApp2 ass3.csproj.CoreCompileInputs.cache
+D:\back end.net\ConsoleApp2 ass3\ConsoleApp2 ass3\obj\Debug\net10.0\ConsoleApp2 ass3.dll
+D:\back end.net\ConsoleApp2 ass3\ConsoleApp2 ass3\obj\Debug\net10.0\refint\ConsoleApp2 ass3.dll
+D:\back end.net\ConsoleApp2 ass3\ConsoleApp2 ass3\obj\Debug\net10.0\ConsoleApp2 ass3.pdb
+D:\back end.net\ConsoleApp2 ass3\ConsoleApp2 ass3\obj\Debug\net10.0\ConsoleApp2 ass3.genruntimeconfig.cache
+D:\back end.net\ConsoleApp2 ass3\ConsoleApp2 ass3\obj\Debug\net10.0\ref\ConsoleApp2 ass3.dll
+D:\back end.net\ConsoleApp2 ass3\ConsoleApp2 ass3\obj\Debug\net10.0\ConsoleA.0138A1E8.Up2Date
